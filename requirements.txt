@@ -1,0 +1,13 @@
+# requirements.txt for Intelligent Complaint Analysis
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+openai
+chromadb
+faiss-cpu
+sentence-transformers
+tqdm
