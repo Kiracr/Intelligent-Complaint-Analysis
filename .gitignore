@@ -1,0 +1,4 @@
+# Ignore data and virtual environments
+/data/
+/venv/
+.gradio
